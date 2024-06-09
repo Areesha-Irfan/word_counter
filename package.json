@@ -1,13 +1,13 @@
 {
-  "name": "@areeshairfan/word_counter",
-  "version": "1.0.2",
+  "name": "@areeshairfan/wordcounter",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "publishConfig": {
     "access": "public"
   },
-  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
