@@ -1,4 +1,4 @@
-#! usr/bin/env code
+#! /usr/bin/env code
 import inquirer from "inquirer";
 const answers = await inquirer.prompt([
     {
